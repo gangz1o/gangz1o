@@ -1,11 +1,11 @@
-<h1 align="center">⚡ gangz1o</h1>
+<h1 align="center">⚡ Gangz1o</h1>
 
 <p align="center">
   <b>The god of vibe coding in ancient Greece.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Builder+of+Tools;UI+Perfectionist;Automation+Enthusiast;Shipping+Real+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2E6F40&center=true&vCenter=true&width=600&lines=Builder+of+Tools;UI+Perfectionist;Automation+Enthusiast;Shipping+Real+Stuff" />
 </p>
 
 ---
