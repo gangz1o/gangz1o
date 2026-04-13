@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Clipaste
+### 🧠 [Clipaste](https://github.com/gangz1o/Clipaste)
 > A minimal yet powerful clipboard manager for modern workflows
 
 - ⚡ Instant clipboard history
@@ -39,7 +39,7 @@
 
 ---
 
-### 🐳 Clash for Docker
+### 🐳 [Clash for Docker](https://github.com/gangz1o/clash4docker)
 > Fully packaged proxy solution
 
 - ⚡ Mihomo (Clash Meta)
@@ -48,7 +48,7 @@
 
 ---
 
-### 🧩 115 Offline Helper
+### 🧩 [115 Offline Helper](https://github.com/gangz1o/115-offline-helper)
 > One-click push magnet / ed2k to 115 cloud
 
 - ⚡ Auto detect links
@@ -75,7 +75,7 @@
 
 ## 📫 Connect
 
-- 🌐 Website: https://www.downix.app
+- 📫 Email: gangplankwong@gmail.com
 - 💻 GitHub: https://github.com/gangz1o
 
 ---
