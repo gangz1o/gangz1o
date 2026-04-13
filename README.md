@@ -19,7 +19,7 @@
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,swift,react,nodejs,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,js,css,html,ts,swift,react,nodejs,docker,linux,git,sql" />
 </p>
 
 ---
