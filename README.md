@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=The+god+of+vibe+coding+in+ancient+Greece." 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=36&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&height=100&lines=The+god+of+vibe+coding+in+ancient+Greece." 
     alt="Typing SVG"
   />
 </h3>
