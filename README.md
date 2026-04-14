@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/61929720?v=4" width="80"
+       style="border-radius:50%; border:3px solid #58a6ff;" />
+</p>
+
 <h1 align="center">🥸 Gangz1o</h1>
 
 <h3 align="center">
