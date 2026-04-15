@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Clipaste](https://github.com/gangz1o/Clipaste)
+### 📋️ [Clipaste](https://github.com/gangz1o/Clipaste)
 > A minimal yet powerful clipboard manager for modern workflows
 
 - ⚡ Instant clipboard history
